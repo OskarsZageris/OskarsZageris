@@ -4,10 +4,10 @@ I am an aspiring software developer, currently developing my PHP skills, but I a
 I like challanging my self to be the best. Programming is a way to never get bored as it combines both - never-ending learning and complex problem-solving.
 
 My skills:
--Procedural Java script/typescript
--Git
--HTTP & Web API Basics
--PHP OOP
+- Procedural Java script/typescript
+- Git
+- HTTP & Web API Basics
+- PHP OOP
 
 
 - 🔭 I’m currently working on Booking aplication
