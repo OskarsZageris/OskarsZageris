@@ -21,4 +21,4 @@ My skills:
 
 
 
-<img alt="Preview Image 7" data-description='<p class="img-credit">Photo &copy; <a target="_blank" href="http://www.sanantonioweddings.com/vendor-profile?w=225"> Advertiser Name</a> this is second link for google <a href="http://google.com">Click here for google</a></p>'>
+<img alt="Preview Image 7" data-description='<p class="img-credit">Photo &copy; <a target="_blank" href="https://www.linkedin.com/in/oscar-zager-88696a233/"> 
