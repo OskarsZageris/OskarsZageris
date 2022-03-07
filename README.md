@@ -15,4 +15,4 @@ My skills:
 - 📫 How to reach me here:
 oskarszageris3@gmail.com
 - I also enjoy playing Clash of Code, you can find me here:
-- https://www.codingame.com/profile/25bd451e7e27a2fd52128a410eb96fc34641964[COC]
+- https://www.codingame.com/profile/25bd451e7e27a2fd52128a410eb96fc34641964
