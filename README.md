@@ -6,7 +6,7 @@ I like challanging my self to be the best. Programming is a way to never get bor
 - 🔭 I’m currently working on Booking aplication
 - 🌱 I’m currently learning PHP OOP
 - 📫 How to reach me here:
-[Linkedin](https://www.linkedin.com/in/oscarzager/)
+[Linkedin](https://www.linkedin.com/in/oskarszageris/)
 - Email oskarszageris3@gmail.com
 
 - I also enjoy playing Clash of Code, you can find me here:
