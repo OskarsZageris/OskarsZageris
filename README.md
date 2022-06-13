@@ -5,7 +5,7 @@ I like challanging my self to be the best. Programming is a way to never get bor
 
 
  📫 How to reach me here:
-[Linkedin](https://www.linkedin.com/in/oskarszageris/)
+- [Linkedin](https://www.linkedin.com/in/oskarszageris/)
 - Email oskarszageris3@gmail.com
 
 - I also enjoy playing Clash of Code, you can find me here:
