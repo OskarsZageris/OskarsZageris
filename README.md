@@ -4,7 +4,7 @@ I am an aspiring software developer, currently developing my PHP skills, but I a
 I like challanging my self to be the best. Programming is a way to never get bored as it combines both - never-ending learning and complex problem-solving.
 
 
-- 📫 How to reach me here:
+ 📫 How to reach me here:
 [Linkedin](https://www.linkedin.com/in/oskarszageris/)
 - Email oskarszageris3@gmail.com
 
